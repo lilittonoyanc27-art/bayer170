@@ -6,7 +6,7 @@ import dotenv from "dotenv";
 
 dotenv.config();
 
-import { STUDY_QUESTIONS } from "./src/data.ts";
+import { STUDY_QUESTIONS } from "./data.ts";
 
 async function startServer() {
   const app = express();
