@@ -1,0 +1,6 @@
+{
+  "name": "Spanish Armenian Practice",
+  "description": "Learn 40 Spanish conversational questions with Armenian translation. Practice with multiple-choice quizzes and type your custom answers for AI verification and feedback.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
